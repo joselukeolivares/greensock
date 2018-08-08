@@ -1,0 +1,36 @@
+[33mcommit 22c295d87af50d9f7f8c07d79317085fce6bf999[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: José Luis Olivares <joselukeolivares@gmail.com>
+Date:   Mon Aug 6 17:52:41 2018 -0600
+
+    Un commit más
+
+[33mcommit e5622240676dfceab375af84d7612427dcaad8be[m
+Merge: 15cc7ae ece7f7f
+Author: José Luis Olivares <joselukeolivares@gmail.com>
+Date:   Fri Aug 3 18:38:57 2018 -0600
+
+    Merge branch 'Version_1'
+
+[33mcommit ece7f7fe288ce632f0540396d94058a1e1fc2254[m[33m ([m[1;32mVersion_1[m[33m)[m
+Author: José Luis Olivares <joselukeolivares@gmail.com>
+Date:   Fri Aug 3 18:23:09 2018 -0600
+
+    Oficialmente la bienvenida a la versión 2!
+
+[33mcommit 15cc7ae31d863239f7885143d578424aa227cb9e[m
+Author: José Luis Olivares <joselukeolivares@gmail.com>
+Date:   Fri Aug 3 18:11:00 2018 -0600
+
+    Se anuncio que se actualizara a la version 2
+
+[33mcommit df897be0fe7fab0cdcb06b286bd7a8fd5f7db791[m
+Author: José Luis Olivares <joselukeolivares@gmail.com>
+Date:   Fri Aug 3 17:15:05 2018 -0600
+
+    Increible es asi de facil!
+
+[33mcommit be000394d750a463a300d637ea34e7cfaf25dd60[m
+Author: José Luis Olivares <joselukeolivares@gmail.com>
+Date:   Fri Aug 3 17:09:57 2018 -0600
+
+    Primer commit del Proyecto!
